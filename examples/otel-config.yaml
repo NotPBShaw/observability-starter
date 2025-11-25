@@ -1,2 +1,2 @@
-service_name: observability-starter-kit
+service_name: observability-starter
 exporter: stdout

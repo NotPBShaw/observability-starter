@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"observability-starter-kit/internal/telemetry"
+	"observability-starter/internal/telemetry"
 )
 
 func main() {
