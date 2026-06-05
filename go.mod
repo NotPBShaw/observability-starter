@@ -1,3 +1,3 @@
-module github.com/TryKosm/observability-starter
+module github.com/NotPBShaw/observability-starter
 
 go 1.22
